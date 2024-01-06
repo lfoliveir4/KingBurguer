@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC4707B1-E5C9-4D10-903B-86A66FA255DA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A49DD4C0-CA80-495B-9352-7F178E3346F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/SignIn/ViewModel/SignInViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "send()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A49DD4C0-CA80-495B-9352-7F178E3346F6 - c5aa0d45c30d7be6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BurguerKing.SignInViewModel.send() -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/SignIn/ViewModel/SignInViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "A49DD4C0-CA80-495B-9352-7F178E3346F6 - 6eec0e90f6c3236a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BurguerKing.SignInResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in BurguerKing.SignInViewModel.send() -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/SignIn/ViewModel/SignInViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "A49DD4C0-CA80-495B-9352-7F178E3346F6 - c5aa0d45c30d7be6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BurguerKing.SignInViewModel.send() -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/SignIn/ViewModel/SignInViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D3A9506-892E-42F1-9647-6646A571714D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/SignIn/ViewModel/SignInViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "send()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA4834F1-1C4E-41D8-B252-3392C2FD1051"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/Feed/Interactor/FeedRemoteDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetch(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F01AEAF0-035B-4B36-A05D-58CAEE643281"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/Feed/Interactor/FeedRemoteDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetch(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F01AEAF0-035B-4B36-A05D-58CAEE643281 - 33228caa5985bcb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BurguerKing.Result) -&gt; () in BurguerKing.FeedRemoteDataSource.fetch(accessToken: Swift.String, completion: (Swift.Optional&lt;BurguerKing.FeedResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/Feed/Interactor/FeedRemoteDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "F01AEAF0-035B-4B36-A05D-58CAEE643281 - 33228caa5985bf54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BurguerKing.Result) -&gt; () in BurguerKing.FeedRemoteDataSource.fetch(accessToken: Swift.String, completion: (Swift.Optional&lt;BurguerKing.FeedResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/Feed/Interactor/FeedRemoteDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "F01AEAF0-035B-4B36-A05D-58CAEE643281 - 33228caa5985bcb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BurguerKing.Result) -&gt; () in BurguerKing.FeedRemoteDataSource.fetch(accessToken: Swift.String, completion: (Swift.Optional&lt;BurguerKing.FeedResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/Feed/Interactor/FeedRemoteDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0533CCDF-3E42-4A46-9259-4E7586F9383D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/Feed/Interactor/FeedInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "fetch(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "609AE9AB-794F-49D9-B138-1E3BFC648C67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/FoodView/ViewModel/FoodViewViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetch(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "609AE9AB-794F-49D9-B138-1E3BFC648C67 - 60071005214fb7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BurguerKing.FoodViewViewModel.fetch(id: Swift.Int) -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/FoodView/ViewModel/FoodViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "609AE9AB-794F-49D9-B138-1E3BFC648C67 - 98846e11f4132901"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BurguerKing.FoodViewResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in BurguerKing.FoodViewViewModel.fetch(id: Swift.Int) -&gt; ()"
+                  moduleName = "BurguerKing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luis.oliveira/Documents/BurguerKing/BurguerKing/FoodView/ViewModel/FoodViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "578B75C3-DDA4-4D50-A694-2F64114A64D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BurguerKing/FoodView/View/FoodViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "viewModelDidChange(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
